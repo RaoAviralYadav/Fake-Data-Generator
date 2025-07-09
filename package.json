@@ -1,0 +1,22 @@
+{
+  "name": "dumy-data-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "dotenv": "^17.1.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.2",
+    "nodemon": "^3.1.10"
+  }
+}
